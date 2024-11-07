@@ -6,10 +6,6 @@
 
 - This is a microsoft react clone app developed using any tailwind library.This is a sample static microsoft. This app is responsive as well.
 
-### Demo URL
-
-- https://vardhan-venkata.github.io/react-microsoft-tailwind-clone/
-
 ### Packages used
 
 - react -> For react app we need this package.
